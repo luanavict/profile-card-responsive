@@ -22,15 +22,6 @@ Projeto de cartão de perfil desenvolvido com HTML e CSS, com foco em layout res
 
 ---
 
-##  Preview
-
-![Preview do projeto](img/eu.jpeg)
-
----
-
-
----
-
 ## Aprendizados
 
 Neste projeto pratiquei:
