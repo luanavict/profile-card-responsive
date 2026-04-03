@@ -33,3 +33,6 @@ Neste projeto pratiquei:
 - Animações com `hover` e `transition`
 
 
+## Atualização
+adicionei essa linha para praticar commit.
+
